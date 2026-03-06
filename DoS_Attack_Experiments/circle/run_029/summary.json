@@ -1,0 +1,21 @@
+{
+  "run_id": "circle_run029",
+  "path_name": "circle",
+  "rng_seed": 71,
+  "total_time": 120.0,
+  "dt": 0.05,
+  "n_dos_windows": 8,
+  "total_dos_time": 50.900000000000006,
+  "mean_error_dt": 0.19174393235117287,
+  "max_error_dt": 0.4242643084391283,
+  "final_error_dt": 0.32398364123417384,
+  "cumulative_error_dt": 23.000984791109893,
+  "mean_error_ghost": 1.9918536120846344,
+  "max_error_ghost": 2.5320201158208313,
+  "final_error_ghost": 2.5320201158208313,
+  "cumulative_error_ghost": 238.95894544726062,
+  "improvement_percent": 90.37450355831676,
+  "tube_violations": 0,
+  "time_in_dt_mode": 50.900000000000006,
+  "dt_mode_ratio": 0.4241666666666667
+}

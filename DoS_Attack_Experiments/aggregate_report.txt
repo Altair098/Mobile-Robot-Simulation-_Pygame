@@ -1,0 +1,59 @@
+================================================================================
+DoS Attack Resilience Experiments - Aggregate Report
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Runs: 120
+Mean Improvement: 81.01% ± 8.51%
+Min Improvement: 62.16%
+Max Improvement: 92.01%
+Total Tube Violations: 4782
+Success Rate (no violations): 83.3%
+
+PER-PATH STATISTICS
+--------------------------------------------------------------------------------
+
+Path: CIRCLE
+  ----------------------------------------------------------------------------
+  Runs: 30
+  Improvement: 90.66% ± 0.55%
+  DT Cumulative Error: 22.4621 ± 0.7601 m·s
+  Ghost Cumulative Error: 241.1142 ± 14.9064 m·s
+  Mean DoS Exposure: 50.28s ± 3.35s
+  Tube Violations: 0 total, 0.00 per run
+  Success Rate: 100.0%
+
+Path: FIGURE8
+  ----------------------------------------------------------------------------
+  Runs: 30
+  Improvement: 79.99% ± 5.13%
+  DT Cumulative Error: 41.4490 ± 5.5371 m·s
+  Ghost Cumulative Error: 216.8046 ± 46.9784 m·s
+  Mean DoS Exposure: 51.03s ± 3.10s
+  Tube Violations: 0 total, 0.00 per run
+  Success Rate: 100.0%
+
+Path: SCURVE
+  ----------------------------------------------------------------------------
+  Runs: 30
+  Improvement: 69.45% ± 4.52%
+  DT Cumulative Error: 44.9229 ± 6.9691 m·s
+  Ghost Cumulative Error: 148.7643 ± 22.6067 m·s
+  Mean DoS Exposure: 50.23s ± 2.95s
+  Tube Violations: 4741 total, 158.03 per run
+  Success Rate: 36.7%
+
+Path: SHARPL
+  ----------------------------------------------------------------------------
+  Runs: 30
+  Improvement: 83.96% ± 2.49%
+  DT Cumulative Error: 41.1457 ± 6.8596 m·s
+  Ghost Cumulative Error: 257.7625 ± 27.5110 m·s
+  Mean DoS Exposure: 50.37s ± 2.69s
+  Tube Violations: 41 total, 1.37 per run
+  Success Rate: 96.7%
+
+================================================================================
+End of Report
+================================================================================

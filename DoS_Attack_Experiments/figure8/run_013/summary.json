@@ -1,0 +1,21 @@
+{
+  "run_id": "figure8_run013",
+  "path_name": "figure8",
+  "rng_seed": 55,
+  "total_time": 120.0,
+  "dt": 0.05,
+  "n_dos_windows": 7,
+  "total_dos_time": 47.900000000000006,
+  "mean_error_dt": 0.3365135370570664,
+  "max_error_dt": 1.5978692578061355,
+  "final_error_dt": 0.525625706763511,
+  "cumulative_error_dt": 40.36829630417888,
+  "mean_error_ghost": 2.2188475684807827,
+  "max_error_ghost": 3.3923033000589102,
+  "final_error_ghost": 3.2229931811576775,
+  "cumulative_error_ghost": 266.18094588816496,
+  "improvement_percent": 84.83426521403246,
+  "tube_violations": 0,
+  "time_in_dt_mode": 47.900000000000006,
+  "dt_mode_ratio": 0.39916666666666667
+}

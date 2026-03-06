@@ -1,0 +1,21 @@
+{
+  "run_id": "sharpl_run010",
+  "path_name": "sharpl",
+  "rng_seed": 52,
+  "total_time": 120.0,
+  "dt": 0.05,
+  "n_dos_windows": 8,
+  "total_dos_time": 42.800000000000004,
+  "mean_error_dt": 0.25061455640278285,
+  "max_error_dt": 1.1056702222868235,
+  "final_error_dt": 0.28171118018996166,
+  "cumulative_error_dt": 30.066516488829187,
+  "mean_error_ghost": 1.8689571171730601,
+  "max_error_ghost": 4.1326879482274315,
+  "final_error_ghost": 4.1326879482274315,
+  "cumulative_error_ghost": 224.1713493620615,
+  "improvement_percent": 86.58770776265952,
+  "tube_violations": 0,
+  "time_in_dt_mode": 42.800000000000004,
+  "dt_mode_ratio": 0.3566666666666667
+}

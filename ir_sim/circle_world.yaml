@@ -1,0 +1,11 @@
+world:
+  width: 8
+  height: 8
+  step_time: 0.05
+
+robot:
+  kinematics: {name: 'diff'}
+  shape: {name: 'circle', radius: 0.2}
+  state: [0.0, 0.0, 0.0]
+  color: 'blue'
+  behavior: {name: 'dash'}

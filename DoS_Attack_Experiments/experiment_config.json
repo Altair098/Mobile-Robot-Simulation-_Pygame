@@ -1,0 +1,33 @@
+{
+  "experiment_name": "DoS Attack Resilience Study",
+  "timestamp": "2025-10-20T09:28:23.252420",
+  "paths": [
+    "circle",
+    "figure8",
+    "scurve",
+    "sharpl"
+  ],
+  "runs_per_path": 30,
+  "total_time": 120.0,
+  "dt": 0.05,
+  "seed": 42,
+  "dos_parameters": {
+    "Lmin": 5.0,
+    "Lmax": 9.0,
+    "Gmin": 6.0,
+    "Gmax": 12.0
+  },
+  "control_parameters": {
+    "lambda_v": 0.15,
+    "lambda_omega": 0.2,
+    "gains": {
+      "k1": 1.0,
+      "k2": 1.0,
+      "k3": 10.0
+    },
+    "gamma": 0.8,
+    "d_min": 1.7,
+    "d_max": 2.1,
+    "initial_depth": 1.9
+  }
+}

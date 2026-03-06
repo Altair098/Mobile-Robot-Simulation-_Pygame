@@ -1,0 +1,21 @@
+{
+  "duration_s": 162.82116293907166,
+  "final_progress_s": 0.999,
+  "time_fraction_dt": 0.24604896188410288,
+  "e_norm_rms_m": 0.0489183974495255,
+  "e_norm_p95_m": 0.09991357201451317,
+  "e_norm_max_m": 0.22920530764738398,
+  "d_perp_rms_m": 0.04243597070539151,
+  "d_perp_p95_m": 0.09241518521141869,
+  "e_theta_rms_rad": 0.18202113915679372,
+  "e_theta_p95_rad": 0.47876322495803725,
+  "tube_violation_rate": 0.0,
+  "tube_violation_time_s": 0.0,
+  "progress_rate_dt_mean": 0.004574969287792904,
+  "progress_rate_main_mean": 0.006646627303552158,
+  "progress_rate_ratio_dt_over_main": 0.688314400500221,
+  "v_dt_minus_main_rms": 0.08323336891416046,
+  "w_dt_minus_main_rms": 0.12988285138593178,
+  "smooth_v_mean_abs_dvdt": 0.028707481903454297,
+  "smooth_w_mean_abs_dwdt": 0.11026558254858858
+}

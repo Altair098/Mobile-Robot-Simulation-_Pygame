@@ -1,0 +1,21 @@
+{
+  "run_id": "scurve_run025",
+  "path_name": "scurve",
+  "rng_seed": 67,
+  "total_time": 120.0,
+  "dt": 0.05,
+  "n_dos_windows": 8,
+  "total_dos_time": 54.6,
+  "mean_error_dt": 0.31357450094076994,
+  "max_error_dt": 1.0590504733762223,
+  "final_error_dt": 0.81988213822895,
+  "cumulative_error_dt": 37.608267585574254,
+  "mean_error_ghost": 0.9331922457575642,
+  "max_error_ghost": 2.536317057210924,
+  "final_error_ghost": 2.536317057210924,
+  "cumulative_error_ghost": 111.91948609061501,
+  "improvement_percent": 66.39703335027384,
+  "tube_violations": 0,
+  "time_in_dt_mode": 54.6,
+  "dt_mode_ratio": 0.455
+}

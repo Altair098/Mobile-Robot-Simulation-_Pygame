@@ -1,0 +1,10 @@
+{
+  "s_final": 0.47901364336869146,
+  "err_real_mean": 0.5130410903823451,
+  "err_dos_mean": 2.513158445411946,
+  "err_fdi_mean": 0.7566508506464004,
+  "time_in_dt_ratio": 0.635,
+  "tube_violations": 0,
+  "dos_windows": 7,
+  "fdi_windows": 6
+}
